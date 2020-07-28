@@ -1,4 +1,6 @@
-### Hi there 👋
+<p align="center">
+    <img src="./profile.png" alt="Bruce Bentley">
+</p>
 
 <!--
 **brucebentley/brucebentley** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
