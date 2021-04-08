@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="https://github.com/brucebentley/brucebentley/blob/master/profile.png" alt="Bruce Bentley">
+    <img src="https://github.com/brucebentley/brucebentley/blob/main/profile.png" alt="Bruce Bentley">
 </p>
 
 <!--
