@@ -20,9 +20,17 @@ Here are some ideas to get you started:
 ----
 
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=brucebentley&show_icons=true&theme=material-palenight&count_private=true" alt="Github Stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=brucebentley&show_icons=true&theme=nightowl&count_private=true&include_all_commits=true&card_width=500px&line_height=35" alt="Github Stats" height=220 align="center" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brucebentley&exclude_repo=docz.brucebentley.dev,brucebentley.io,static.brucebentley.io&langs_count=6&layout=donut&count_private=true&size_weight=0&count_weight=1" alt="Top Languages" height=220 align="center" />
 </p>
 
+----
+
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brucebentley&layout=compact&count_private=true" alt="Top Languages" />
+    <a href="https://github.com/brucebentley/dotfiles">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=brucebentley&repo=dotfiles" />
+    </a>
+    <a href="https://github.com/anuraghazra/convoychat">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=brucebentley&repo=homeassistant" />
+    </a>
 </p>
